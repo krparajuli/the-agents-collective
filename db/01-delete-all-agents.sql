@@ -1,1 +1,1 @@
-DELETE * FROM agents;
+DELETE FROM agents WHERE 1=1;
